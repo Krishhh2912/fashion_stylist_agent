@@ -1,0 +1,7 @@
+# ─── LLM + Agent ──────────────────────────────────────────────────────────────
+langchain
+langchain-groq
+langchain-core
+langgraph
+langchain_community
+python-dotenv

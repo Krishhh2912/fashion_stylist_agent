@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "item_id": "mock_001",
+      "source": "hm",
+      "name": "Slim Fit Linen T-Shirt",
+      "price": 24.99,
+      "currency": "USD",
+      "category": "tops",
+      "gender": "men",
+      "color": "white",
+      "material": "100% Linen",
+      "description": "Relaxed slim fit linen t-shirt perfect for warm weather occasions.",
+      "url": "https://hm.com/mock/001",
+      "image_url": "https://hm.com/img/001.jpg"
+    },
+    {
+      "item_id": "mock_002",
+      "source": "zara",
+      "name": "Relaxed Oxford Shirt",
+      "price": 49.99,
+      "currency": "USD",
+      "category": "tops",
+      "gender": "men",
+      "color": "light blue",
+      "material": "Cotton",
+      "description": "Relaxed fit oxford shirt. Smart casual staple.",
+      "url": "https://zara.com/mock/002",
+      "image_url": "https://zara.com/img/002.jpg"
+    },
+    {
+      "item_id": "mock_003",
+      "source": "hm",
+      "name": "Slim Chino Trousers",
+      "price": 39.99,
+      "currency": "USD",
+      "category": "bottoms",
+      "gender": "men",
+      "color": "dark navy",
+      "material": "98% Cotton 2% Elastane",
+      "description": "Tailored slim fit chino trousers in versatile dark navy.",
+      "url": "https://hm.com/mock/003",
+      "image_url": "https://hm.com/img/003.jpg"
+    },
+    {
+      "item_id": "mock_004",
+      "source": "zara",
+      "name": "Linen Bermuda Shorts",
+      "price": 45.99,
+      "currency": "USD",
+      "category": "bottoms",
+      "gender": "men",
+      "color": "ecru",
+      "material": "55% Linen 45% Cotton",
+      "description": "Resort-ready linen bermuda shorts.",
+      "url": "https://zara.com/mock/004",
+      "image_url": "https://zara.com/img/004.jpg"
+    },
+    {
+      "item_id": "mock_005",
+      "source": "hm",
+      "name": "Canvas Espadrille Loafers",
+      "price": 34.99,
+      "currency": "USD",
+      "category": "shoes",
+      "gender": "men",
+      "color": "natural",
+      "material": "Canvas",
+      "description": "Classic espadrille loafers. Effortlessly nautical.",
+      "url": "https://hm.com/mock/005",
+      "image_url": "https://hm.com/img/005.jpg"
+    },
+    {
+      "item_id": "mock_006",
+      "source": "zara",
+      "name": "Leather Boat Shoes",
+      "price": 89.99,
+      "currency": "USD",
+      "category": "shoes",
+      "gender": "men",
+      "color": "tan",
+      "material": "Leather",
+      "description": "Premium leather boat shoes with non-slip sole.",
+      "url": "https://zara.com/mock/006",
+      "image_url": "https://zara.com/img/006.jpg"
+    }
+  ]
+}

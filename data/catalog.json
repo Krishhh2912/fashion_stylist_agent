@@ -1,0 +1,401 @@
+{
+  "count": 120,
+  "items": [
+    {
+      "item_id": "hm_t001", "source": "hm", "name": "Slim Fit Crew Neck T-Shirt", "price": 12.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "white", "material": "100% Cotton",
+      "description": "Classic slim fit crew neck t-shirt in soft cotton. A wardrobe essential.",
+      "url": "https://www2.hm.com/en_us/productpage.1001.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=1001"
+    },
+    {
+      "item_id": "hm_t002", "source": "hm", "name": "Regular Fit Linen T-Shirt", "price": 17.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "beige", "material": "100% Linen",
+      "description": "Relaxed regular fit linen t-shirt. Breathable and perfect for summer occasions.",
+      "url": "https://www2.hm.com/en_us/productpage.1002.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=1002"
+    },
+    {
+      "item_id": "hm_t003", "source": "hm", "name": "Oversized Fit T-Shirt", "price": 14.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "navy", "material": "100% Cotton",
+      "description": "Oversized fit t-shirt in dark navy. Casual streetwear staple.",
+      "url": "https://www2.hm.com/en_us/productpage.1003.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=1003"
+    },
+    {
+      "item_id": "hm_t004", "source": "hm", "name": "Slim Fit Oxford Shirt", "price": 34.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "light blue", "material": "100% Cotton",
+      "description": "Slim fit oxford shirt in light blue. Smart casual essential for office or weekend.",
+      "url": "https://www2.hm.com/en_us/productpage.1004.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=1004"
+    },
+    {
+      "item_id": "hm_t005", "source": "hm", "name": "Regular Fit Linen Shirt", "price": 39.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "white", "material": "100% Linen",
+      "description": "Airy regular fit linen shirt. Ideal for resort, beach or yacht occasions.",
+      "url": "https://www2.hm.com/en_us/productpage.1005.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=1005"
+    },
+    {
+      "item_id": "hm_t006", "source": "hm", "name": "Slim Fit Polo Shirt", "price": 24.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "navy", "material": "100% Cotton",
+      "description": "Classic slim fit polo shirt. A smart casual staple that works for most occasions.",
+      "url": "https://www2.hm.com/en_us/productpage.1006.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=1006"
+    },
+    {
+      "item_id": "hm_t007", "source": "hm", "name": "Regular Fit Striped T-Shirt", "price": 14.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "navy stripe", "material": "100% Cotton",
+      "description": "Breton stripe regular fit t-shirt. Nautical and effortlessly stylish.",
+      "url": "https://www2.hm.com/en_us/productpage.1007.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=1007"
+    },
+    {
+      "item_id": "hm_t008", "source": "hm", "name": "Slim Fit Henley T-Shirt", "price": 19.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "grey", "material": "95% Cotton 5% Elastane",
+      "description": "Slim fit henley t-shirt with button placket. Modern casual look.",
+      "url": "https://www2.hm.com/en_us/productpage.1008.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=1008"
+    },
+    {
+      "item_id": "hm_t009", "source": "hm", "name": "Relaxed Fit Graphic T-Shirt", "price": 16.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "black", "material": "100% Cotton",
+      "description": "Relaxed fit graphic t-shirt in black. Urban and casual streetwear.",
+      "url": "https://www2.hm.com/en_us/productpage.1009.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=1009"
+    },
+    {
+      "item_id": "hm_t010", "source": "hm", "name": "Slim Fit Merino Wool Sweater", "price": 49.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "camel", "material": "100% Merino Wool",
+      "description": "Slim fit merino wool sweater in warm camel. Luxurious and versatile.",
+      "url": "https://www2.hm.com/en_us/productpage.1010.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=1010"
+    },
+    {
+      "item_id": "hm_t011", "source": "hm", "name": "Regular Fit Flannel Shirt", "price": 29.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "olive", "material": "100% Cotton",
+      "description": "Regular fit flannel shirt in olive. Perfect for casual autumn layering.",
+      "url": "https://www2.hm.com/en_us/productpage.1011.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=1011"
+    },
+    {
+      "item_id": "hm_t012", "source": "hm", "name": "Slim Fit Turtleneck Sweater", "price": 44.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "black", "material": "80% Cotton 20% Polyamide",
+      "description": "Slim fit turtleneck sweater. Sleek and sophisticated for smart casual events.",
+      "url": "https://www2.hm.com/en_us/productpage.1012.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=1012"
+    },
+    {
+      "item_id": "zara_t001", "source": "zara", "name": "Linen Blend Overshirt", "price": 59.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "ecru", "material": "55% Linen 45% Cotton",
+      "description": "Relaxed linen blend overshirt in natural ecru. Resort-ready layering piece.",
+      "url": "https://www.zara.com/us/en/linen-overshirt-p01234567.html", "image_url": "https://static.zara.net/photos/01234567.jpg"
+    },
+    {
+      "item_id": "zara_t002", "source": "zara", "name": "Textured Knit Polo", "price": 45.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "cream", "material": "60% Cotton 40% Polyester",
+      "description": "Textured knit polo in cream. Elevated casual look for smart occasions.",
+      "url": "https://www.zara.com/us/en/knit-polo-p01234568.html", "image_url": "https://static.zara.net/photos/01234568.jpg"
+    },
+    {
+      "item_id": "zara_t003", "source": "zara", "name": "Relaxed Fit Denim Shirt", "price": 49.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "light blue", "material": "100% Cotton",
+      "description": "Relaxed fit denim shirt. Versatile casual layer that pairs with everything.",
+      "url": "https://www.zara.com/us/en/denim-shirt-p01234569.html", "image_url": "https://static.zara.net/photos/01234569.jpg"
+    },
+    {
+      "item_id": "zara_t004", "source": "zara", "name": "Structured Poplin Shirt", "price": 55.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "white", "material": "100% Cotton",
+      "description": "Structured poplin shirt in crisp white. Business casual or formal essential.",
+      "url": "https://www.zara.com/us/en/poplin-shirt-p01234570.html", "image_url": "https://static.zara.net/photos/01234570.jpg"
+    },
+    {
+      "item_id": "zara_t005", "source": "zara", "name": "Printed Resort Shirt", "price": 49.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "blue print", "material": "100% Viscose",
+      "description": "Relaxed printed resort shirt. Perfect for holiday, beach and yacht occasions.",
+      "url": "https://www.zara.com/us/en/resort-shirt-p01234571.html", "image_url": "https://static.zara.net/photos/01234571.jpg"
+    },
+    {
+      "item_id": "zara_t006", "source": "zara", "name": "Slim Fit Pique Polo", "price": 39.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "navy", "material": "100% Cotton",
+      "description": "Slim fit pique polo in classic navy. Smart casual favourite for any occasion.",
+      "url": "https://www.zara.com/us/en/pique-polo-p01234572.html", "image_url": "https://static.zara.net/photos/01234572.jpg"
+    },
+    {
+      "item_id": "zara_t007", "source": "zara", "name": "Oversized Linen T-Shirt", "price": 35.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "sage green", "material": "100% Linen",
+      "description": "Oversized linen t-shirt in soft sage green. Relaxed summer essential.",
+      "url": "https://www.zara.com/us/en/linen-tshirt-p01234573.html", "image_url": "https://static.zara.net/photos/01234573.jpg"
+    },
+    {
+      "item_id": "zara_t008", "source": "zara", "name": "Knit Cardigan", "price": 69.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "grey", "material": "60% Cotton 40% Nylon",
+      "description": "Open knit cardigan in mid grey. Layering piece for smart casual looks.",
+      "url": "https://www.zara.com/us/en/knit-cardigan-p01234574.html", "image_url": "https://static.zara.net/photos/01234574.jpg"
+    },
+    {
+      "item_id": "zara_t009", "source": "zara", "name": "Technical Zip Sweatshirt", "price": 59.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "black", "material": "100% Polyester",
+      "description": "Technical zip sweatshirt in black. Modern athletic-inspired casual wear.",
+      "url": "https://www.zara.com/us/en/zip-sweatshirt-p01234575.html", "image_url": "https://static.zara.net/photos/01234575.jpg"
+    },
+    {
+      "item_id": "zara_t010", "source": "zara", "name": "Striped Nautical Shirt", "price": 45.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "navy stripe", "material": "100% Cotton",
+      "description": "Classic nautical stripe shirt. Perfect for yacht, coastal and summer occasions.",
+      "url": "https://www.zara.com/us/en/nautical-shirt-p01234576.html", "image_url": "https://static.zara.net/photos/01234576.jpg"
+    },
+    {
+      "item_id": "zara_t011", "source": "zara", "name": "Linen Blend Blazer", "price": 119.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "beige", "material": "55% Linen 45% Viscose",
+      "description": "Unstructured linen blend blazer in natural beige. Smart casual summer essential.",
+      "url": "https://www.zara.com/us/en/linen-blazer-p01234577.html", "image_url": "https://static.zara.net/photos/01234577.jpg"
+    },
+    {
+      "item_id": "zara_t012", "source": "zara", "name": "Cotton Hoodie", "price": 49.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "light grey", "material": "100% Cotton",
+      "description": "Classic cotton hoodie in light grey. Comfortable everyday casual wear.",
+      "url": "https://www.zara.com/us/en/cotton-hoodie-p01234578.html", "image_url": "https://static.zara.net/photos/01234578.jpg"
+    },
+    {
+      "item_id": "hm_t013", "source": "hm", "name": "Regular Fit Chambray Shirt", "price": 27.99, "currency": "USD",
+      "category": "tops", "gender": "women", "color": "blue", "material": "100% Cotton",
+      "description": "Regular fit chambray shirt in soft blue. Casual and versatile for everyday wear.",
+      "url": "https://www2.hm.com/en_us/productpage.1013.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=1013"
+    },
+    {
+      "item_id": "hm_t014", "source": "hm", "name": "Slim Fit Quarter Zip Sweater", "price": 34.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "burgundy", "material": "100% Cotton",
+      "description": "Slim fit quarter zip sweater in rich burgundy. Smart casual layering piece.",
+      "url": "https://www2.hm.com/en_us/productpage.1014.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=1014"
+    },
+    {
+      "item_id": "hm_b001", "source": "hm", "name": "Slim Fit Chino Trousers", "price": 34.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "dark navy", "material": "98% Cotton 2% Elastane",
+      "description": "Slim fit chino trousers in versatile dark navy. Smart casual essential.",
+      "url": "https://www2.hm.com/en_us/productpage.2001.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=2001"
+    },
+    {
+      "item_id": "hm_b002", "source": "hm", "name": "Regular Fit Chinos", "price": 29.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "beige", "material": "100% Cotton",
+      "description": "Regular fit chinos in classic beige. Versatile and easy to style.",
+      "url": "https://www2.hm.com/en_us/productpage.2002.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=2002"
+    },
+    {
+      "item_id": "hm_b003", "source": "hm", "name": "Slim Fit Jeans", "price": 39.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "dark blue", "material": "99% Cotton 1% Elastane",
+      "description": "Slim fit jeans in dark blue wash. Classic and versatile denim.",
+      "url": "https://www2.hm.com/en_us/productpage.2003.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=2003"
+    },
+    {
+      "item_id": "hm_b004", "source": "hm", "name": "Relaxed Fit Cargo Trousers", "price": 44.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "olive", "material": "100% Cotton",
+      "description": "Relaxed fit cargo trousers in olive. Casual and functional streetwear.",
+      "url": "https://www2.hm.com/en_us/productpage.2004.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=2004"
+    },
+    {
+      "item_id": "hm_b005", "source": "hm", "name": "Linen Blend Shorts", "price": 24.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "white", "material": "55% Linen 45% Cotton",
+      "description": "Linen blend shorts in clean white. Summer essential for warm weather.",
+      "url": "https://www2.hm.com/en_us/productpage.2005.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=2005"
+    },
+    {
+      "item_id": "hm_b006", "source": "hm", "name": "Slim Fit Dress Trousers", "price": 49.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "charcoal", "material": "100% Polyester",
+      "description": "Slim fit dress trousers in charcoal. Smart and formal for office or events.",
+      "url": "https://www2.hm.com/en_us/productpage.2006.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=2006"
+    },
+    {
+      "item_id": "hm_b007", "source": "hm", "name": "Regular Fit Shorts", "price": 19.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "khaki", "material": "100% Cotton",
+      "description": "Regular fit shorts in khaki. Casual summer staple.",
+      "url": "https://www2.hm.com/en_us/productpage.2007.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=2007"
+    },
+    {
+      "item_id": "hm_b008", "source": "hm", "name": "Slim Fit Joggers", "price": 29.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "grey", "material": "80% Cotton 20% Polyester",
+      "description": "Slim fit joggers in grey marl. Comfortable and stylish casual wear.",
+      "url": "https://www2.hm.com/en_us/productpage.2008.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=2008"
+    },
+    {
+      "item_id": "hm_b009", "source": "hm", "name": "Relaxed Fit Linen Trousers", "price": 39.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "ecru", "material": "100% Linen",
+      "description": "Relaxed fit linen trousers in natural ecru. Perfect for resort and summer occasions.",
+      "url": "https://www2.hm.com/en_us/productpage.2009.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=2009"
+    },
+    {
+      "item_id": "hm_b010", "source": "hm", "name": "Slim Fit Corduroy Trousers", "price": 44.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "brown", "material": "100% Cotton",
+      "description": "Slim fit corduroy trousers in warm brown. Autumnal smart casual look.",
+      "url": "https://www2.hm.com/en_us/productpage.2010.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=2010"
+    },
+    {
+      "item_id": "zara_b001", "source": "zara", "name": "Slim Fit Suit Trousers", "price": 69.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "navy", "material": "100% Wool",
+      "description": "Slim fit wool suit trousers in navy. Formal and smart for business occasions.",
+      "url": "https://www.zara.com/us/en/suit-trousers-p02234567.html", "image_url": "https://static.zara.net/photos/02234567.jpg"
+    },
+    {
+      "item_id": "zara_b002", "source": "zara", "name": "Linen Blend Trousers", "price": 59.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "camel", "material": "55% Linen 45% Viscose",
+      "description": "Relaxed linen blend trousers in camel. Resort and summer occasion essential.",
+      "url": "https://www.zara.com/us/en/linen-trousers-p02234568.html", "image_url": "https://static.zara.net/photos/02234568.jpg"
+    },
+    {
+      "item_id": "zara_b003", "source": "zara", "name": "Straight Fit Jeans", "price": 55.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "light blue", "material": "100% Cotton",
+      "description": "Straight fit jeans in light blue wash. Relaxed and modern denim silhouette.",
+      "url": "https://www.zara.com/us/en/straight-jeans-p02234569.html", "image_url": "https://static.zara.net/photos/02234569.jpg"
+    },
+    {
+      "item_id": "zara_b004", "source": "zara", "name": "Bermuda Shorts", "price": 45.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "ecru", "material": "100% Cotton",
+      "description": "Classic bermuda shorts in ecru. Smart casual summer essential.",
+      "url": "https://www.zara.com/us/en/bermuda-shorts-p02234570.html", "image_url": "https://static.zara.net/photos/02234570.jpg"
+    },
+    {
+      "item_id": "zara_b005", "source": "zara", "name": "Relaxed Fit Chinos", "price": 49.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "khaki", "material": "100% Cotton",
+      "description": "Relaxed fit chinos in khaki. Versatile smart casual trouser.",
+      "url": "https://www.zara.com/us/en/relaxed-chinos-p02234571.html", "image_url": "https://static.zara.net/photos/02234571.jpg"
+    },
+    {
+      "item_id": "zara_b006", "source": "zara", "name": "Technical Jogger Trousers", "price": 55.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "black", "material": "100% Polyester",
+      "description": "Technical jogger trousers in black. Athletic-inspired smart casual.",
+      "url": "https://www.zara.com/us/en/jogger-trousers-p02234572.html", "image_url": "https://static.zara.net/photos/02234572.jpg"
+    },
+    {
+      "item_id": "zara_b007", "source": "zara", "name": "Wide Leg Linen Trousers", "price": 65.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "white", "material": "100% Linen",
+      "description": "Wide leg linen trousers in white. Elevated resort and summer casual wear.",
+      "url": "https://www.zara.com/us/en/wide-linen-trousers-p02234573.html", "image_url": "https://static.zara.net/photos/02234573.jpg"
+    },
+    {
+      "item_id": "zara_b008", "source": "zara", "name": "Slim Fit Smart Chinos", "price": 59.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "grey", "material": "98% Cotton 2% Elastane",
+      "description": "Slim fit smart chinos in mid grey. Office and smart casual essential.",
+      "url": "https://www.zara.com/us/en/smart-chinos-p02234574.html", "image_url": "https://static.zara.net/photos/02234574.jpg"
+    },
+    {
+      "item_id": "zara_b009", "source": "zara", "name": "Denim Shorts", "price": 39.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "dark blue", "material": "100% Cotton",
+      "description": "Classic denim shorts in dark blue. Summer casual essential.",
+      "url": "https://www.zara.com/us/en/denim-shorts-p02234575.html", "image_url": "https://static.zara.net/photos/02234575.jpg"
+    },
+    {
+      "item_id": "zara_b010", "source": "zara", "name": "Pleated Dress Trousers", "price": 79.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "beige", "material": "100% Wool",
+      "description": "Pleated wool dress trousers in warm beige. Formal and elegant.",
+      "url": "https://www.zara.com/us/en/pleated-trousers-p02234576.html", "image_url": "https://static.zara.net/photos/02234576.jpg"
+    },
+    {
+      "item_id": "hm_b011", "source": "hm", "name": "Slim Fit Chinos in Khaki", "price": 32.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "khaki", "material": "98% Cotton 2% Elastane",
+      "description": "Slim fit chinos in classic khaki. Essential smart casual trouser.",
+      "url": "https://www2.hm.com/en_us/productpage.2011.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=2011"
+    },
+    {
+      "item_id": "hm_b012", "source": "hm", "name": "Relaxed Fit Denim Shorts", "price": 27.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "light blue", "material": "100% Cotton",
+      "description": "Relaxed fit denim shorts in light blue wash. Casual summer essential.",
+      "url": "https://www2.hm.com/en_us/productpage.2012.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=2012"
+    },
+    {
+      "item_id": "zara_b011", "source": "zara", "name": "Cargo Shorts", "price": 49.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "olive", "material": "100% Cotton",
+      "description": "Utility cargo shorts in olive. Functional and casual summer wear.",
+      "url": "https://www.zara.com/us/en/cargo-shorts-p02234577.html", "image_url": "https://static.zara.net/photos/02234577.jpg"
+    },
+    {
+      "item_id": "zara_b012", "source": "zara", "name": "Slim Fit Cropped Trousers", "price": 55.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "navy", "material": "100% Cotton",
+      "description": "Slim fit cropped trousers in navy. Modern and tailored summer silhouette.",
+      "url": "https://www.zara.com/us/en/cropped-trousers-p02234578.html", "image_url": "https://static.zara.net/photos/02234578.jpg"
+    },
+    {
+      "item_id": "hm_s001", "source": "hm", "name": "Canvas Espadrille Loafers", "price": 29.99, "currency": "USD",
+      "category": "shoes", "gender": "men", "color": "natural", "material": "Canvas upper Jute sole",
+      "description": "Classic canvas espadrille loafers. Effortlessly nautical and summer-ready.",
+      "url": "https://www2.hm.com/en_us/productpage.3001.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=3001"
+    },
+    {
+      "item_id": "hm_s002", "source": "hm", "name": "Leather Derby Shoes", "price": 59.99, "currency": "USD",
+      "category": "shoes", "gender": "men", "color": "tan", "material": "Leather upper Leather sole",
+      "description": "Classic leather derby shoes in tan. Smart casual or formal occasions.",
+      "url": "https://www2.hm.com/en_us/productpage.3002.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=3002"
+    },
+    {
+      "item_id": "hm_s003", "source": "hm", "name": "White Leather Sneakers", "price": 44.99, "currency": "USD",
+      "category": "shoes", "gender": "men", "color": "white", "material": "Leather upper Rubber sole",
+      "description": "Clean white leather sneakers. Versatile casual shoes for everyday wear.",
+      "url": "https://www2.hm.com/en_us/productpage.3003.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=3003"
+    },
+    {
+      "item_id": "hm_s004", "source": "hm", "name": "Suede Chelsea Boots", "price": 69.99, "currency": "USD",
+      "category": "shoes", "gender": "men", "color": "brown", "material": "Suede upper Rubber sole",
+      "description": "Slim suede chelsea boots in warm brown. Smart casual and versatile.",
+      "url": "https://www2.hm.com/en_us/productpage.3004.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=3004"
+    },
+    {
+      "item_id": "hm_s005", "source": "hm", "name": "Leather Loafers", "price": 54.99, "currency": "USD",
+      "category": "shoes", "gender": "men", "color": "black", "material": "Leather upper Leather sole",
+      "description": "Classic leather loafers in black. Smart and elegant for any occasion.",
+      "url": "https://www2.hm.com/en_us/productpage.3005.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=3005"
+    },
+    {
+      "item_id": "zara_s001", "source": "zara", "name": "Leather Boat Shoes", "price": 89.99, "currency": "USD",
+      "category": "shoes", "gender": "men", "color": "tan", "material": "Leather upper Rubber sole",
+      "description": "Premium leather boat shoes with non-slip sole. Made for coastal and yacht occasions.",
+      "url": "https://www.zara.com/us/en/boat-shoes-p03234567.html", "image_url": "https://static.zara.net/photos/03234567.jpg"
+    },
+    {
+      "item_id": "zara_s002", "source": "zara", "name": "Leather Oxford Shoes", "price": 99.99, "currency": "USD",
+      "category": "shoes", "gender": "men", "color": "black", "material": "Leather upper Leather sole",
+      "description": "Classic leather oxford shoes in black. Formal and elegant footwear.",
+      "url": "https://www.zara.com/us/en/oxford-shoes-p03234568.html", "image_url": "https://static.zara.net/photos/03234568.jpg"
+    },
+    {
+      "item_id": "zara_s003", "source": "zara", "name": "Suede Loafers", "price": 79.99, "currency": "USD",
+      "category": "shoes", "gender": "men", "color": "camel", "material": "Suede upper Leather sole",
+      "description": "Slip-on suede loafers in warm camel. Effortlessly smart casual.",
+      "url": "https://www.zara.com/us/en/suede-loafers-p03234569.html", "image_url": "https://static.zara.net/photos/03234569.jpg"
+    },
+    {
+      "item_id": "zara_s004", "source": "zara", "name": "Canvas Sneakers", "price": 49.99, "currency": "USD",
+      "category": "shoes", "gender": "men", "color": "white", "material": "Canvas upper Rubber sole",
+      "description": "Clean canvas sneakers in white. Casual and versatile everyday footwear.",
+      "url": "https://www.zara.com/us/en/canvas-sneakers-p03234570.html", "image_url": "https://static.zara.net/photos/03234570.jpg"
+    },
+    {
+      "item_id": "zara_s005", "source": "zara", "name": "Leather Ankle Boots", "price": 119.99, "currency": "USD",
+      "category": "shoes", "gender": "men", "color": "dark brown", "material": "Leather upper Leather sole",
+      "description": "Premium leather ankle boots in dark brown. Smart and versatile for all seasons.",
+      "url": "https://www.zara.com/us/en/ankle-boots-p03234571.html", "image_url": "https://static.zara.net/photos/03234571.jpg"
+    },
+    {
+      "item_id": "hm_t015", "source": "hm", "name": "Slim Fit V-Neck T-Shirt", "price": 12.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "light grey", "material": "100% Cotton",
+      "description": "Slim fit v-neck t-shirt in light grey. Simple and versatile everyday essential.",
+      "url": "https://www2.hm.com/en_us/productpage.1015.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=1015"
+    },
+    {
+      "item_id": "hm_t016", "source": "hm", "name": "Regular Fit Sweatshirt", "price": 24.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "navy", "material": "80% Cotton 20% Polyester",
+      "description": "Regular fit sweatshirt in navy. Comfortable casual layering piece.",
+      "url": "https://www2.hm.com/en_us/productpage.1016.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=1016"
+    },
+    {
+      "item_id": "zara_t013", "source": "zara", "name": "Linen Shirt Short Sleeve", "price": 45.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "sky blue", "material": "100% Linen",
+      "description": "Short sleeve linen shirt in sky blue. Summer and resort essential.",
+      "url": "https://www.zara.com/us/en/linen-short-shirt-p01234579.html", "image_url": "https://static.zara.net/photos/01234579.jpg"
+    },
+    {
+      "item_id": "zara_t014", "source": "zara", "name": "Relaxed Fit Terry Sweatshirt", "price": 49.99, "currency": "USD",
+      "category": "tops", "gender": "men", "color": "cream", "material": "100% Cotton",
+      "description": "Relaxed terry sweatshirt in warm cream. Casual and comfortable everyday wear.",
+      "url": "https://www.zara.com/us/en/terry-sweatshirt-p01234580.html", "image_url": "https://static.zara.net/photos/01234580.jpg"
+    },
+    {
+      "item_id": "hm_b013", "source": "hm", "name": "Slim Fit Linen Shorts", "price": 22.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "beige", "material": "100% Linen",
+      "description": "Slim fit linen shorts in warm beige. Breathable summer essential.",
+      "url": "https://www2.hm.com/en_us/productpage.2013.html", "image_url": "https://lp2.hm.com/hmgoepprod?set=2013"
+    },
+    {
+      "item_id": "zara_b013", "source": "zara", "name": "Linen Blend Shorts", "price": 45.99, "currency": "USD",
+      "category": "bottoms", "gender": "men", "color": "navy", "material": "55% Linen 45% Cotton",
+      "description": "Linen blend shorts in navy. Smart casual summer essential.",
+      "url": "https://www.zara.com/us/en/linen-shorts-p02234579.html", "image_url": "https://static.zara.net/photos/02234579.jpg"
+    }
+  ]
+}
